@@ -1,0 +1,17 @@
+nav {
+  background-color: black;
+  padding: 11px;
+}
+ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+ul li a {
+  color: white;
+  font-size: 28px;
+  text-decoration: none;
+  margin-inline: 22px;
+}
+.active {
+  color: brown;
+}
